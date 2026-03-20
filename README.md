@@ -1,6 +1,8 @@
 # GAME: Genetic Algorithms with Marginalised Ensembles
 GAME is a Python framework for the model-independent reconstruction of physical functions from data. It upgrades the standard Genetic Algorithms (GA) approach by introducing a marginalised ensemble methodology. Instead of selecting a single "best-fit" function, GAME computes a weighted average over an ensemble of reconstructions, significantly improving stability, smoothness, and the accuracy of derivatives.
 
+**Paper**: https://arxiv.org/abs/2602.12870.
+
 This codebase is an advanced extension of the original Genetic Algorithms library by Savvas Nesseris, available at https://github.com/snesseris/Genetic-Algorithms.
 
 ## Key Features
